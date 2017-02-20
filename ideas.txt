@@ -1,4 +1,0 @@
-Three programs I would like to write
-1. Simple time tracker
-2. Roman numerals converter
-3. implement advanced yatzy
