@@ -1,4 +1,4 @@
-message = "Hello to you my friend!"
+message = "Hello to you my dearest friend!"
 print(message)
 
 message = "You are not my fried!"
